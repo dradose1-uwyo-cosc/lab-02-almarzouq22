@@ -25,8 +25,10 @@ print("cowboy joe")
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
     # the final message should read `The University of Wyoming was founded in 1886`
+school = 'University of Wyoming'
+date = '1886'
 
-print(f"The {'The University of Wyoming'} was founded in {'1886'}")
+print(f"The {school} was founded in {date}")
 
 # Now let's do some math with variables 
     # Create two variables x and y and assign them the values 5 and 10 respectively 
