@@ -17,10 +17,12 @@ print('Hello, COSC1010')
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = "hi there"
-print("hi there")
+print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
-print("cowboy joe")
+boy = 'cowboy joe'
+print(boy)
+
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
